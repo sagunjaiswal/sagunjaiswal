@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about js, reactjs.
 - 📫 Reach me at : sagunjaiswal99@gmail.com
 - 😄 All of my projects are available at [sagunjaiswal](https://github.com/sagunjaiswal/sagunjaiswal)
-[comment]: <> (- ⚡ Fun fact:)
+<!-- **- ⚡ Fun fact:-->
  
