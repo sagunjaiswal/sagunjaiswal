@@ -1,6 +1,6 @@
 ## Hi 👋, I am Sagun
 <!--
-**sagunjaiswal/sagunjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sagunjaiswal/sagunjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 😄 All of my projects are available at [sagunjaiswal](https://github.com/sagunjaiswal/sagunjaiswal)
 [comment]: <> (- ⚡ Fun fact:)
  
--->
