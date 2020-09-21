@@ -2,7 +2,9 @@
 <!--
 **sagunjaiswal/sagunjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
+<div align="right">![gif](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)</div>
+<div align="left">
+ 
 - 🔭 I’m an engineering student
 
 - 🌱 I’m currently learning reactjs
@@ -14,6 +16,7 @@
 - 📫 Reach me at : sagunjaiswal99@gmail.com
 
 - 😄 All of my projects are available at [sagunjaiswal](https://github.com/sagunjaiswal/sagunjaiswal)
+</div>
 
 <!-- **- ⚡ Fun fact:-->
  
