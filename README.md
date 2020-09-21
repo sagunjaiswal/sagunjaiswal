@@ -2,7 +2,7 @@
 <!--
 **sagunjaiswal/sagunjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<div align="right">![gif](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)</div>
+<div align="right">![gif](https://giphy.com/gifs/fAnzw6YK33jMwzp5wp/html5)</div>
 <div align="left">
  
 - 🔭 I’m an engineering student
