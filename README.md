@@ -21,4 +21,4 @@
 <!-- **- ⚡ Fun fact:-->
  
 <h3 align="center"> Three! Two! One! DEPLOY</h1>
-[![github stats](https://github-readme-stats.vercel.app/api?sagunjaiswalanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
