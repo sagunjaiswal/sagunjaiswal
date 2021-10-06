@@ -1,24 +1,26 @@
-<h1 align="center"> Hi 👋, I am Sagun</h1>
-<!--
-**sagunjaiswal/sagunjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### Hi there 👋
 
-![gif](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)</div>
+# I am Sagun Jaiswal
 
- 
-- 🔭 I’m an engineering student
+## Technical Skills
 
-- 🌱 I’m currently learning reactjs
+<div style="flex">
+  
+  <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-React-%23212121?style=flat&logo=React"> 
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  </br>
+</div>
 
-- 🤔 I’m looking for help with open source guide for beginners
+</br></br>
 
-- 💬 Ask me about js, reactjs.
+[![Pronay's github stats](https://github-readme-stats.vercel.app/api?username=sagunjaiswal&show_icons=true&theme=radical)](https://github.com/sagunjaiswal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagunjaiswal&layout=compact&langs_count=8&theme=Gradient)](https://github.com/sagunjaiswal)
 
-- 📫 Reach me at : sagunjaiswal99@gmail.com
+## Connect with me
 
-- 😄 All of my projects are available at [sagunjaiswal](https://github.com/sagunjaiswal/sagunjaiswal)
+[<img src = "https://img.shields.io/badge/-Linkedin-ED8B00?style=social&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sagun-jaiswal/)
 
-
-<!-- **- ⚡ Fun fact:-->
- 
-<h3 align="center"> Three! Two! One! DEPLOY</h1>
-
+[<img src = "https://img.shields.io/badge/-Medium-ED8B00?style=social&logo=medium&logoColor=white">](https://sagunjaiswal.medium.com/)
